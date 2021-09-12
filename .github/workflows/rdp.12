@@ -1,4 +1,4 @@
-name: amazonRDP
+name: rdp.12
 
 on: workflow_dispatch
 
